@@ -1,6 +1,6 @@
 # TeamShare
 
-![](https://github.com/TeamShareIO/TeamShare/blob/master/TeamShare.jpg)
+![分期图](https://github.com/TeamShareIO/TeamShare/blob/master/TeamShare.jpg)
 
 **一期**
 
