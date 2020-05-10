@@ -1,6 +1,6 @@
 # TeamShare
 
-![image-20200510160438500](https://github.com/TeamShareIO/TeamShare/blob/master/readme.png)
+![](https://github.com/TeamShareIO/TeamShare/blob/master/TeamShare.jpg)
 
 **一期**
 
